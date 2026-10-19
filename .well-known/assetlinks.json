@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.bakaloria.quizteacher",
+      "sha256_cert_fingerprints": [
+        "75:8A:91:BA:CE:BC:FD:39:C0:34:C6:CA:89:E9:2D:6B:18:FC:FF:F1:FB:A3:20:29:E3:48:29:65:E9:3C:F1:6F"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.bakaloria.quizstudent",
+      "sha256_cert_fingerprints": [
+        "85:88:54:A0:38:B2:17:54:F6:DC:B1:22:D2:E8:DB:44:78:07:3F:6F:57:FF:F6:9A:3E:40:A6:CF:D8:60:3D:9C"
+      ]
+    }
+  }
+]
